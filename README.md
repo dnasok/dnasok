@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @dnasok
+- 👀 I’m interested in App & Game Development
+- 🌱 I’m currently learning C# and C++
+- 💞️ I’m looking to collaborate on any software / game projects
+- 📫 How to reach me
+  - Email: kosand_123@hotmail.com
+  - https://dnasok.wixsite.com/portfolio
+  - https://www.linkedin.com/in/lum-ko-sand/
