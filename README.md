@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on any software / game projects
 - 📫 How to reach me
-  - Email: kosand_123@hotmail.com
+  - Email: lum_ko_sand@outlook.com
   - https://dnasok.wixsite.com/portfolio
   - https://www.linkedin.com/in/lum-ko-sand/
